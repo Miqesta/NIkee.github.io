@@ -1,0 +1,221 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+body{
+    background-color: #fff;
+    font-family: "Kumbh Sans", sans-serif;
+    
+
+
+}
+.box{
+    width: 35cm;
+    height: 24.5cm;
+    margin: auto;
+    
+    padding: 10px;
+    
+}
+.snikersi{
+    margin: 30px;
+}
+.gilakebi button{
+    border: none;
+    background-color: #fff;
+    font-size: 23px;
+    cursor: pointer;
+  
+
+    
+}
+
+.gilakebi{
+    transform: translate(300px,-57px);
+    
+
+
+}
+.profile{
+    transform: translate(1200px,-115px);}
+ 
+.profile img{
+    padding: 10px;
+    cursor: pointer;
+    
+}
+.pingvini{
+    border-radius: 50%;
+    overflow: hidden;
+    transform: translateY(5px)
+}
+    .fexsacmeli img{
+        margin: 10px;
+        padding: 3px;
+        border-radius: 20px;
+    }
+    .fexsacmeli{
+        margin: 12px;
+    }
+
+
+    .productinfo{
+        
+        box-sizing: border-box;
+        width: 507px;
+        height: 510px;
+        transform: translate(550px,-550px);
+    }
+    .productinfo h1{
+        color: hsl(26, 100%, 55%);
+        font-size:23px;
+        
+    }
+    .productinfo h2{
+        font-size: 35px;
+        
+    }
+    .productinfo h3{
+        color: #808080;
+    }
+    .productinfo h4{
+        
+        font-size: 23px;
+        position: absolute;
+        transform: translate(1px,-15px);
+        
+    }
+    .productinfo h5{
+    background: hsl(25, 100%, 94%);
+    color: hsl(26, 100%, 55%);
+    border-radius: 4px;
+    font-weight: 700;
+    font-size: 23px;
+    width: 50px;
+    height: 25px;
+    position: absolute;
+    transform: translate(120px,-22px);
+    
+    
+}
+    .productinfo h6{
+        font-size: 23px;
+        text-decoration:line-through ;
+        position: absolute;
+        color: #808080
+
+    }
+
+    
+    .raodenoba button{
+        
+
+        border: none;
+        font-size: 20px;
+        font-weight: 10cm;
+        
+
+        background-color: color #808080;
+        width: 119px;
+        height: 44px;
+
+    }
+    .raodenoba{
+        display: flex;
+        background-color: color #808080;
+        width: 119px;
+
+        height: 44px;
+        box-shadow: 0px 13px 20px 0px rgba(46, 23, 6, 0.3);
+        
+        
+        transform: translate(10px,140px);
+        
+        
+    }
+    .addtocart{
+        align-items: center;
+        width: 207px;
+        height: 44px;
+        
+        color: #fff;
+        background: hsl(26, 100%, 55%);
+        font-family: inherit;
+        font-weight: 700;
+        border: none;
+        border-radius: 8px;
+        font-size: 14px;
+        box-shadow: 0px 13px 20px 0px hsl(26deg 100% 55% / 30%);
+        cursor: pointer;
+        transform: translate(200px,96px);
+
+    }
+    .addtocart img{
+        width: 30px;
+        height: 30px;
+        transform: translate(-55px,5px);
+      
+
+    }
+    .addtocart h1{
+        font-size: 20px;
+        color: #fff;
+        transform: translate(25px,-40px);
+
+    }
+    #erti{
+        color: hsl(26, 100%, 55%);
+
+    }
+    #sami{
+        color: hsl(26, 100%, 55%);
+
+    }
+ .ertii{
+    transition: 0.4s;
+    
+ }
+ .ertii:hover{
+    color: blue;
+    text-shadow: 1px 1px 10px blue;
+ }
+ .orii{
+    transition: 0.4s;
+    
+ }
+ .orii:hover{
+    color: blue;
+    text-shadow: 1px 1px 10px blue;
+ }
+ .samii{
+    transition: 0.4s;
+    
+ }
+ .samii:hover{
+    color: blue;
+    text-shadow: 1px 1px 10px blue;
+ }
+ .otxii{
+    transition: 0.4s;
+    
+ }
+ .otxii:hover{
+    color: blue;
+    text-shadow: 1px 1px 10px blue;
+ }
+ .xutii{
+    transition: 0.4s;
+    
+ }
+ .xutii:hover{
+    color: blue;
+    text-shadow: 1px 1px 10px blue;
+ }
+ .addtocart{
+    transition: 0.6s;
+ }
+ .addtocart :hover{
+    transition: 0.6s;
+    color: green;
+
+ }
+ .raodenoba{
+    cursor: pointer;
+ }
